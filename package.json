@@ -27,7 +27,7 @@
   "homepage": "https://github.com/kenkouot/hapi-i18next",
   "dependencies": {
     "accept-language-parser": "^1.0.2",
-    "i18next": "^1.7.10"
+    "i18next": "1.10.6"
     
   },
   "devDependencies": {
